@@ -1,0 +1,6 @@
+![table_structure](https://github.com/user-attachments/assets/32ff9812-3f7e-47b4-ab33-1261ad419f33)
+![Database_creation](https://github.com/user-attachments/assets/24813e62-1bab-4ea1-8d4a-1283f03d52aa)
+![Data_Cleaning](https://github.com/user-attachments/assets/a3bb3ff2-a157-4ae1-b03b-caa716632545)
+![Data_Exploration](https://github.com/user-attachments/assets/f734a18d-9bda-47bd-8a61-b35d585b9e63)
+![image](https://github.com/user-attachments/assets/e523119e-a19a-4789-8c94-6a73e1444baf)
+![image(2)](https://github.com/user-attachments/assets/c9843894-fe3b-471e-8e60-41abb82d1719)
